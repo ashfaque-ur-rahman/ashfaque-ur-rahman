@@ -9,8 +9,10 @@
  
 ## About me
  
-<img align="right" width="240" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
-I'm an undergraduate <strong>EEE student<strong> at <strong>Mymensingh Engineering College<strong>, affiliated with the University of Dhaka.
+<p align="center">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200"/>
+</p>
+I'm an undergraduate <strong>EEE student</strong> at <strong>Mymensingh Engineering College</strong>, affiliated with the University of Dhaka.
  
 I build hardware that interacts with the physical world — from schematic design to PCB layout to the firmware that runs on it. Most of my projects start on a **Veroboard**, where I design, solder, and debug everything end-to-end.
  
@@ -19,7 +21,6 @@ I build hardware that interacts with the physical world — from schematic desig
 - Visited **Ulkasemi** (semiconductor company) on official industrial tour
 - Competed in **multiple inter-university robotics events**
 - Based in Mymensingh, Bangladesh
-<br clear="right"/>
 ---
  
 ## Tech stack
