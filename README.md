@@ -7,7 +7,7 @@
 </p>
 ---
  
-<img align="right" width="260" src="https://camo.githubusercontent.com/5ddbeb2da8f34708f3dfb1a986b99da9c9a4f3d0ac43f2b2f8a56e98e72d3ac/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/>
+<img align="right" width="260" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 ## 👨‍💻 About me
  
 I'm an undergraduate **EEE student** at **Mymensingh Engineering College**, affiliated with the University of Dhaka.
@@ -32,15 +32,15 @@ I build hardware that interacts with the physical world — from schematic desig
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-**Hardware & EDA** — KiCad (schematic, PCB layout, ERC/DRC), Veroboard prototyping, hand soldering
+<strong>Hardware & EDA</strong> — KiCad (schematic, PCB layout, ERC/DRC), Veroboard prototyping, hand soldering
  
-**Interfaces** — I²C, SPI — sensor integration and peripheral communication
+<strong>Interfaces</strong> — I²C, SPI — sensor integration and peripheral communication
  
-**Firmware** — C / C++ for microcontroller programming, bare-metal embedded development
+<strong>Firmware</strong> — C / C++ for microcontroller programming, bare-metal embedded development
  
-**Scripting** — Python for automation and tooling
+<strong>Scripting</strong> — Python for automation and tooling
  
-**Exploring** — VLSI design fundamentals
+<strong>Exploring</strong> — VLSI design fundamentals
  
 ---
  
@@ -97,4 +97,3 @@ Object manipulation robot with a gripping and clamping mechanism. Involved servo
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 <p align="center"><sub>EEE · Mymensingh Engineering College · University of Dhaka</sub></p>
- 
