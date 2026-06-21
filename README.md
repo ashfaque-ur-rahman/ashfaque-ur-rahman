@@ -10,7 +10,7 @@
 ## About me
  
 <img align="right" width="240" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
-I'm an undergraduate **EEE student** at **Mymensingh Engineering College**, affiliated with the University of Dhaka.
+I'm an undergraduate <strong>EEE student<strong> at <strong>Mymensingh Engineering College<strong>, affiliated with the University of Dhaka.
  
 I build hardware that interacts with the physical world — from schematic design to PCB layout to the firmware that runs on it. Most of my projects start on a **Veroboard**, where I design, solder, and debug everything end-to-end.
  
