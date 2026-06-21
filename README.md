@@ -25,12 +25,13 @@ I build hardware that interacts with the physical world — from schematic desig
 ## Tech stack
  
 <p align="center">
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="48" height="48" alt="C" title="C"/></a>&nbsp;&nbsp;
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="C++" title="C++"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" title="Python"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48" height="48" alt="Git" title="Git"/></a>&nbsp;&nbsp;
+<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="48" height="48" alt="Linux" title="Linux"/></a>&nbsp;&nbsp;
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino" title="Arduino"/></a>&nbsp;&nbsp;
+<a href="https://www.kicad.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/3374914?s=48&v=4" width="48" height="48" alt="KiCad" title="KiCad"/></a>
 </p>
 <strong>Hardware & EDA</strong> — KiCad (schematic, PCB layout, ERC/DRC), Veroboard prototyping, hand soldering
  
