@@ -1,80 +1,106 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Ashfaque%20Ur%20Rahman&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Electrical%20%26%20Electronics%20Engineering&descSize=16&descAlignY=85&descColor=aaaaaa" width="100%" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+PCB+Design+%7C+Robotics;KiCad+%7C+C%2FC%2B%2B+Firmware+%7C+VLSI+Explorer;Building+hardware+that+interacts+with+the+world)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashfaque%20Ur%20Rahman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=55&desc=Electrical%20%26%20Electronics%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Robotics&descSize=16&descAlignY=75&descColor=cce0ff" width="100%"/>
+</div>
+<br/>
+<div align="center">
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0a192f?style=for-the-badge&logo=embarcadero&logoColor=58a6ff)
+![PCB Design](https://img.shields.io/badge/PCB_Design-0a192f?style=for-the-badge&logo=altiumdesigner&logoColor=58a6ff)
+![Robotics](https://img.shields.io/badge/Robotics-0a192f?style=for-the-badge&logo=ros&logoColor=58a6ff)
+![VLSI](https://img.shields.io/badge/VLSI-0a192f?style=for-the-badge&logo=intel&logoColor=58a6ff)
  
 </div>
 ---
  
-## About me
+<img align="right" width="280" src="https://camo.githubusercontent.com/5ddbeb2da8f34708f3dfb1a986b99da9c9a4f3d0ac43f2b2f8a56e98e72d3ac/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/>
+## 👨‍💻 About me
  
-I'm an undergraduate student in **Electrical & Electronics Engineering** at **Mymensingh Engineering College**, affiliated with the University of Dhaka.
+I'm an undergraduate **EEE student** at **Mymensingh Engineering College**, affiliated with the University of Dhaka.
  
-My work lives at the intersection of hardware and firmware — designing circuits, laying out PCBs, and writing the embedded code that brings them to life. Most of my builds start on a **Veroboard**: I design, solder, and debug hardware end-to-end before committing to a final layout.
+I build hardware that interacts with the physical world — from schematic design to PCB layout to the firmware that runs on it. Most of my projects start on a **Veroboard**, where I design, solder, and debug everything end-to-end.
  
-I have a growing interest in **VLSI design**, and recently visited **Ulkasemi** on an official college industrial tour — a direct window into semiconductor engineering in Bangladesh.
- 
+- 🔭 Working on embedded systems & robotics projects
+- 🌱 Exploring **VLSI design** fundamentals
+- 🏭 Visited **Ulkasemi** (semiconductor company) on official industrial tour
+- 🤖 Competed in **multiple inter-university robotics events**
+- 📍 Mymensingh, Bangladesh
+<br clear="right"/>
 ---
  
-## Skills & tools
- 
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
- 
-**Hardware & EDA** — KiCad (schematic, PCB layout, ERC/DRC), Veroboard prototyping, hand soldering
- 
-**Interfaces** — I²C, SPI — sensor integration and peripheral communication
- 
-**Firmware** — C / C++ for microcontroller programming, bare-metal embedded development
- 
-**Scripting** — Python for automation and tooling
- 
-**Exploring** — VLSI design fundamentals
- 
----
- 
-## Featured projects
- 
-### Soccer Bot
-Autonomous soccer-playing robot built for competitive inter-university events. Designed the motor driver circuit, integrated sensors for ball detection, and implemented motion control logic in firmware. Hardware built on Veroboard from schematic to final assembly.
- 
-### Cozmo Clench Bot
-Object manipulation robot with a gripping and clamping mechanism. Involved servo motor control, mechanical linkage design, and full circuit prototyping on Veroboard.
- 
-> More projects being documented and uploaded — currently organizing repositories.
- 
----
- 
-## Competitions & events
- 
-- Participated in **multiple inter-university robotics competitions** across Bangladesh
-- Official industrial tour to **Ulkasemi** — a semiconductor/VLSI company — organized by Mymensingh Engineering College
----
- 
-## GitHub stats
+## 🛠️ Tech stack
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashfaque-ur-rahman&show_icons=true&hide_border=true&theme=github_dark&count_private=true&hide=contribs" height="160" />
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
+</div>
+<br/>
+<div align="center">
+| 🔧 Hardware & EDA | 💻 Firmware | 📡 Interfaces | 🔬 Exploring |
+|:---:|:---:|:---:|:---:|
+| KiCad, Veroboard | C / C++ | I²C, SPI | VLSI Design |
+| Schematic Capture | Bare-metal MCU | Sensor Integration | Semiconductor |
+| PCB Layout | Python Scripting | Peripheral Comms | Logic Design |
+ 
+</div>
+---
+ 
+## 🚀 Featured projects
+ 
+<div align="center">
+| Project | Description | Tech |
+|---|---|:---:|
+| ⚽ **Soccer Bot** | Autonomous soccer-playing robot for inter-university competitions. Designed motor driver circuit, integrated ball-detection sensors, implemented motion control firmware | `C` `Veroboard` `Sensors` |
+| 🦾 **Cozmo Clench Bot** | Object manipulation robot with gripping mechanism. Servo motor control, mechanical linkage design, full circuit prototyping | `C` `Servo` `Veroboard` |
+ 
+</div>
+> 📁 More projects being documented and uploaded — repositories in progress.
+ 
+---
+ 
+## 🏆 Achievements & events
+ 
+<div align="center">
+🤖 &nbsp; **Inter-university Robotics Competitions** — Multiple events across universities in Bangladesh
+ 
+🏭 &nbsp; **Ulkasemi Industrial Tour** — Official college visit to a semiconductor & VLSI company
+ 
+🎓 &nbsp; **Mymensingh Engineering College** — B.Sc. in Electrical & Electronics Engineering *(ongoing)*
+ 
+</div>
+---
+ 
+## 📊 GitHub stats
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ashfaque-ur-rahman&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=contribs&rank_icon=github" height="170"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=ashfaque-ur-rahman&hide_border=true&theme=github-dark-blue" height="160" />
+<img src="https://streak-stats.demolab.com?user=ashfaque-ur-rahman&hide_border=true&theme=tokyonight" height="170"/>
 </div>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaque-ur-rahman&hide_border=true&theme=github-compact&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaque-ur-rahman&hide_border=true&theme=tokyo-night&area=true&area_color=58a6ff" width="100%"/>
 </div>
 ---
  
-## Connect
- 
-[![Email](https://img.shields.io/badge/Email-ashfaqueurrahman2023@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashfaqueurrahman2023@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ashfaque--ur--rahman-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashfaque-ur-rahman)
-[![Location](https://img.shields.io/badge/Location-Mymensingh%2C%20Bangladesh-2ea44f?style=flat-square)](https://github.com/ashfaque-ur-rahman)
- 
----
+## 🤝 Connect with me
  
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%" />
-<sub>EEE · Mymensingh Engineering College · University of Dhaka</sub>
+[![Gmail](https://img.shields.io/badge/Gmail-ashfaqueurrahman2023-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashfaqueurrahman2023@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-ashfaque--ur--rahman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashfaque-ur-rahman)
+&nbsp;
+[![Location](https://img.shields.io/badge/📍_Mymensingh-Bangladesh-2ea44f?style=for-the-badge)](https://github.com/ashfaque-ur-rahman)
+ 
 </div>
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ashfaque-ur-rahman&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+</div>
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+ 
